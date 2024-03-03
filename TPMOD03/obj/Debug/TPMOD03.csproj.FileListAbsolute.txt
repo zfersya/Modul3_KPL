@@ -1,0 +1,10 @@
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\bin\Debug\TPMOD03.exe.config
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\bin\Debug\TPMOD03.exe
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\bin\Debug\TPMOD03.pdb
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\obj\Debug\TPMOD03.csproj.AssemblyReference.cache
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\obj\Debug\TPMOD03.Form1.resources
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\obj\Debug\TPMOD03.Properties.Resources.resources
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\obj\Debug\TPMOD03.csproj.GenerateResource.cache
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\obj\Debug\TPMOD03.csproj.CoreCompileInputs.cache
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\obj\Debug\TPMOD03.exe
+D:\Telyu\Kontruksi Perangkat Lunak\TPMOD03\TPMOD03\obj\Debug\TPMOD03.pdb
